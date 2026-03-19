@@ -1,4 +1,4 @@
-# Flutter Studies
+# Flutter Learning
 
 Repositório dedicado ao aprendizado de Flutter e Dart, com foco em prática e construção de pequenos projetos para consolidação de conceitos.
 
